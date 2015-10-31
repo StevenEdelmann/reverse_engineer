@@ -1,0 +1,72 @@
+body {
+	background-color: black;
+}
+
+#hello {
+	text-align: center;
+	font-size: 28px;
+	font-family: Arial;
+	color: white;
+	letter-spacing: 0;
+}
+
+#introduction {
+	color: rgb(102, 102, 102);
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+	padding: 5px;
+}
+
+#introduction a {
+	color: rgb(255, 255, 51);
+	text-decoration: none;
+}
+
+#section_break {
+	width: 50%;
+	color: rgb(50, 50, 50);
+	margin: 10 auto;
+}
+
+.grid {
+	width: 900px;
+	margin: 0 auto;
+	color: rgb(102, 102, 102);
+	text-align: center;
+	font-size: 14px;
+	font-family: Times;
+}
+
+.grid div {
+	width: 300px;
+	float: left;
+}
+
+.grid_img {
+	height: 163px;
+	width: 300px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#final_div {
+	position: absolute;
+	bottom: 0;
+	font-size: 12px;
+	font-style: italic;
+	color: rgb(103, 103, 103);
+	left: 36%;
+	text-align: center;
+	padding: 0;
+}
+
+#final_div a {
+	color: rgb(255, 255, 51);
+	text-decoration: none;
+}
+
+#final_div img{
+	height: 103px;
+	width: 220px;
+}
