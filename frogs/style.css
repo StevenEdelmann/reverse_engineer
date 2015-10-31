@@ -1,0 +1,53 @@
+#head-title {
+	color: rgb(255, 153, 51);
+}
+
+.main_div{
+	width: 80%;
+}
+
+table {
+	width: 100%;
+	border: 0;
+	padding: 20px;
+}
+
+.yellow {
+	background-color: rgb(255, 255, 204);
+	text-align: center;
+}
+
+.green {
+	background-color: rgb(204, 255, 153);
+	text-align: center;
+}
+
+#share {
+	text-align: center;
+	font-size: 30px;
+}
+
+p {
+	font-size: 30px;
+}
+
+b {
+	color: rgb(255, 102, 0);
+	font-size: 36px;
+}
+
+#jumpfrog {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#eye_img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#feet {
+	text-align: center;
+}
