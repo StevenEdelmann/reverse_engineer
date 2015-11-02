@@ -2,13 +2,9 @@
 	color: rgb(255, 153, 51);
 }
 
-.main_div{
-	width: 80%;
-}
-
 table {
 	width: 100%;
-	border: 0;
+	border: 10px;
 	padding: 20px;
 }
 
@@ -28,12 +24,12 @@ table {
 }
 
 p {
-	font-size: 30px;
+	font-size: 22px;
 }
 
 b {
 	color: rgb(255, 102, 0);
-	font-size: 36px;
+	font-size: 24px;
 }
 
 #jumpfrog {
